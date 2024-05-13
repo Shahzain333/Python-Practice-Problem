@@ -1,4 +1,4 @@
-# Program to cheack if a number is even or odd
+# Program to cheack if a number is even or odd.
 try:
     num = int(input("Enter a number: "))
     if num % 2 == 0:
