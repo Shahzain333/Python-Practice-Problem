@@ -2,7 +2,7 @@
 
 try:
     lst = []
-    number_of_int = int(input("How many number to you want to inert in the list: "))
+    number_of_int = int(input("How many number to you want to insert in the list: "))
     
     for i in range(number_of_int):
         num = int(input("Enter an integer: "))
